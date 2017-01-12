@@ -1,7 +1,7 @@
 Fall16-Team3
 ============
 
-Project Name : <b>CleverCare</b>
+Project Name : <b>Smarter-Care</b>
 
 Abstract
 ========
