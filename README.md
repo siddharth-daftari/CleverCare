@@ -34,7 +34,7 @@ Architecture diagram
 Working Model on AWS
 ====================
 
-[CleverCare](http://ec2-35-165-244-171.us-west-2.compute.amazonaws.com:3000/#/).
+[Smarter-Care](http://ec2-35-165-244-171.us-west-2.compute.amazonaws.com:3000/#/).
 
 Sample Nurse Credentials:<br>
 username: <b>bryony@clevercare.com</b><br>
